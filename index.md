@@ -4,3 +4,7 @@
 ``` JavaScript
 var myVar = "你好，世界！";
 ````
+# the fourth step 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
